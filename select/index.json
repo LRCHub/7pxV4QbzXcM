@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【MV】レッツゴー！まふまふ（仮題）【#VocaDuo2025】",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-25T14:14:57.254206Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レッツゴー!まふまふ(仮題)",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_レッツゴー!まふまふ(仮題)_まふまふ.txt"
+    }
+  ]
+}
